@@ -6,9 +6,9 @@ A cross-platform, real-time auditing dashboard for **Windows and Linux** systems
 
 ## 🌐 Live Preview
 
-![screenshot](docs/dashboard_preview.png)
+![image](https://github.com/user-attachments/assets/7a61646c-e2ee-46db-bee5-6074762d2477)
 
----
+![image](https://github.com/user-attachments/assets/0029f652-463e-4e9b-b1ee-beaf54fa32eb)
 
 ## 📦 Features
 
