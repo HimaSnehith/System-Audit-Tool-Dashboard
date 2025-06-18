@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>System Audit Tool Dashboard</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <script src="https://kit.fontawesome.com/your-font-awesome-kit-id.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="theme-toggle-wrapper">
+    <label class="theme-switch" for="theme-toggle">
+      <input type="checkbox" id="theme-toggle" title="Toggle light/dark mode" />
+      <span class="slider round"></span>
+      <span class="visually-hidden" id="theme-toggle-label">Enable Dark Mode</span>
+    </label>
+  </div>
+
+  <div class="dashboard-container">
+    <h1 class="main-title">System Audit Tool Dashboard</h1>
+    <div class="dashboard-grid">
+      <div class="card-panel config-panel">
+        <div class="card-header">Audit Configuration</div>
+        <div class="card-body">
+          <div class="form-group">
+            <label for="target-host" class="form-label">Target Hostname or IP</label>
+            <input type="text" id="target-host" class="form-control" placeholder="e.g., localhost or 192.168.1.100" title="Target hostname or IP address" value="localhost" />
+          </div>
+
+          <h2 class="section-title">Available Audit Scripts:</h2>
+          <p id="os-info" class="os-info">Detecting operating system...</p>
+          <div id="scripts-list" class="scripts-list">Loading scripts...</div>
+
+          <div class="button-group">
+            <button id="run-audit" class="btn btn-primary"><i class="fas fa-play"></i> Run Selected Audit Scripts</button>
+            <button id="download-report" class="btn btn-success" disabled><i class="fas fa-file-download"></i> Download Latest Report (PDF)</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-panel output-panel">
+        <div class="card-header">Audit Output</div>
+        <div class="card-body terminal-output">
+          <div id="output" class="output-log">Select scripts and click “Run Selected Audit Scripts”.</div>
+          <div id="dashboard-link-container" style="margin-top: 15px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

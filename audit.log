@@ -1,0 +1,1066 @@
+2025-05-26 00:44:22,671 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 00:44:22,671 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 00:44:22,673 - INFO -  * Restarting with stat
+2025-05-26 00:44:23,329 - WARNING -  * Debugger is active!
+2025-05-26 00:44:23,333 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 00:45:02,989 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 00:45:02,990 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 00:45:02,991 - INFO -  * Restarting with stat
+2025-05-26 00:45:03,554 - WARNING -  * Debugger is active!
+2025-05-26 00:45:03,557 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 00:46:48,733 - INFO - 127.0.0.1 - - [26/May/2025 00:46:48] "GET / HTTP/1.1" 200 -
+2025-05-26 00:46:49,112 - INFO - 127.0.0.1 - - [26/May/2025 00:46:49] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 00:46:49,143 - INFO - 127.0.0.1 - - [26/May/2025 00:46:49] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 00:46:49,328 - INFO - 127.0.0.1 - - [26/May/2025 00:46:49] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-26 00:46:49,423 - INFO - 127.0.0.1 - - [26/May/2025 00:46:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 00:52:04,909 - INFO -  * Detected change in 'd:\\Major Pro\\major project\\Backend\\app.py', reloading
+2025-05-26 00:52:05,110 - INFO -  * Restarting with stat
+2025-05-26 00:52:05,778 - WARNING -  * Debugger is active!
+2025-05-26 00:52:05,781 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 00:52:11,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 00:52:11,593 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 00:52:11,594 - INFO -  * Restarting with stat
+2025-05-26 00:52:12,161 - WARNING -  * Debugger is active!
+2025-05-26 00:52:12,163 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 00:52:19,918 - INFO - 127.0.0.1 - - [26/May/2025 00:52:19] "GET / HTTP/1.1" 200 -
+2025-05-26 00:52:20,133 - INFO - 127.0.0.1 - - [26/May/2025 00:52:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 00:52:20,147 - INFO - 127.0.0.1 - - [26/May/2025 00:52:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-26 00:52:20,194 - INFO - 127.0.0.1 - - [26/May/2025 00:52:20] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-26 00:52:23,325 - INFO - 127.0.0.1 - - [26/May/2025 00:52:23] "GET / HTTP/1.1" 200 -
+2025-05-26 00:52:23,389 - INFO - 127.0.0.1 - - [26/May/2025 00:52:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 00:52:23,400 - INFO - 127.0.0.1 - - [26/May/2025 00:52:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-26 00:52:23,448 - INFO - 127.0.0.1 - - [26/May/2025 00:52:23] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-26 01:02:27,717 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 01:02:27,717 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 01:02:27,720 - INFO -  * Restarting with stat
+2025-05-26 01:02:28,257 - WARNING -  * Debugger is active!
+2025-05-26 01:02:28,262 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 01:07:31,479 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 01:07:31,479 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 01:07:31,481 - INFO -  * Restarting with stat
+2025-05-26 01:07:32,005 - WARNING -  * Debugger is active!
+2025-05-26 01:07:32,009 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 01:07:56,239 - INFO - 127.0.0.1 - - [26/May/2025 01:07:56] "GET / HTTP/1.1" 200 -
+2025-05-26 01:07:56,509 - INFO - 127.0.0.1 - - [26/May/2025 01:07:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 01:07:56,537 - INFO - 127.0.0.1 - - [26/May/2025 01:07:56] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 01:07:56,679 - INFO - 127.0.0.1 - - [26/May/2025 01:07:56] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-26 01:07:56,735 - INFO - 127.0.0.1 - - [26/May/2025 01:07:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 01:09:50,453 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 01:09:50,453 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 01:09:50,455 - INFO -  * Restarting with stat
+2025-05-26 01:09:51,376 - WARNING -  * Debugger is active!
+2025-05-26 01:09:51,380 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 01:09:57,520 - INFO - 127.0.0.1 - - [26/May/2025 01:09:57] "GET / HTTP/1.1" 200 -
+2025-05-26 01:09:57,761 - INFO - 127.0.0.1 - - [26/May/2025 01:09:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-05-26 01:09:57,763 - INFO - 127.0.0.1 - - [26/May/2025 01:09:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-05-26 01:09:57,865 - INFO - 127.0.0.1 - - [26/May/2025 01:09:57] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-27 08:53:29,676 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 08:53:29,676 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 08:53:29,678 - INFO -  * Restarting with stat
+2025-05-27 08:53:29,964 - WARNING -  * Debugger is active!
+2025-05-27 08:53:29,978 - INFO -  * Debugger PIN: 621-687-058
+2025-05-27 08:54:34,516 - INFO - 127.0.0.1 - - [27/May/2025 08:54:34] "GET / HTTP/1.1" 200 -
+2025-05-27 08:54:34,546 - INFO - 127.0.0.1 - - [27/May/2025 08:54:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-27 08:54:34,548 - INFO - 127.0.0.1 - - [27/May/2025 08:54:34] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-27 08:54:34,564 - INFO - 127.0.0.1 - - [27/May/2025 08:54:34] "[35m[1mGET /detect_os?host=localhost HTTP/1.1[0m" 501 -
+2025-05-27 08:54:34,639 - INFO - 127.0.0.1 - - [27/May/2025 08:54:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 22:30:16,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 22:30:16,987 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 22:30:16,992 - INFO -  * Restarting with stat
+2025-05-26 22:30:17,746 - WARNING -  * Debugger is active!
+2025-05-26 22:30:17,756 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 22:30:26,007 - INFO - 127.0.0.1 - - [26/May/2025 22:30:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:30:27,820 - INFO - 127.0.0.1 - - [26/May/2025 22:30:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:30:28,703 - INFO - 127.0.0.1 - - [26/May/2025 22:30:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-26 22:30:28,822 - INFO - 127.0.0.1 - - [26/May/2025 22:30:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-26 22:30:29,508 - INFO - 127.0.0.1 - - [26/May/2025 22:30:29] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ktG1cEjQuKiVjTEDOXEI HTTP/1.1" 200 -
+2025-05-26 22:30:29,989 - INFO - 127.0.0.1 - - [26/May/2025 22:30:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-26 22:30:36,621 - INFO - 127.0.0.1 - - [26/May/2025 22:30:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:30:38,826 - INFO - 127.0.0.1 - - [26/May/2025 22:30:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-26 22:30:38,838 - INFO - 127.0.0.1 - - [26/May/2025 22:30:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-26 22:30:39,522 - INFO - 127.0.0.1 - - [26/May/2025 22:30:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ktG1cEjQuKiVjTEDOXEI HTTP/1.1[0m" 304 -
+2025-05-26 22:33:07,570 - INFO -  * Detected change in 'd:\\Major Pro\\major project\\app.py', reloading
+2025-05-26 22:33:07,642 - INFO -  * Restarting with stat
+2025-05-26 22:33:08,729 - WARNING -  * Debugger is active!
+2025-05-26 22:33:08,732 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 22:33:17,352 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 22:33:17,353 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 22:33:17,355 - INFO -  * Restarting with stat
+2025-05-26 22:33:18,093 - WARNING -  * Debugger is active!
+2025-05-26 22:33:18,099 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 22:33:20,702 - INFO - 127.0.0.1 - - [26/May/2025 22:33:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:33:21,143 - INFO - 127.0.0.1 - - [26/May/2025 22:33:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-26 22:33:21,184 - INFO - 127.0.0.1 - - [26/May/2025 22:33:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-26 22:33:21,331 - INFO - 127.0.0.1 - - [26/May/2025 22:33:21] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Ogs1wkxWoiIxc9IMGD2Y HTTP/1.1" 200 -
+2025-05-26 22:33:25,112 - INFO - 127.0.0.1 - - [26/May/2025 22:33:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:33:25,177 - INFO - 127.0.0.1 - - [26/May/2025 22:33:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-26 22:33:25,194 - INFO - 127.0.0.1 - - [26/May/2025 22:33:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-26 22:33:25,236 - INFO - 127.0.0.1 - - [26/May/2025 22:33:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=Ogs1wkxWoiIxc9IMGD2Y HTTP/1.1[0m" 304 -
+2025-05-26 22:33:25,305 - INFO - 127.0.0.1 - - [26/May/2025 22:33:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-26 22:34:50,956 - INFO - 127.0.0.1 - - [26/May/2025 22:34:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:34:51,047 - INFO - 127.0.0.1 - - [26/May/2025 22:34:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-26 22:34:51,054 - INFO - 127.0.0.1 - - [26/May/2025 22:34:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-26 22:34:51,220 - INFO - 127.0.0.1 - - [26/May/2025 22:34:51] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Ogs1wkxWoiIxc9IMGD2Y HTTP/1.1" 200 -
+2025-05-26 22:34:51,371 - INFO - 127.0.0.1 - - [26/May/2025 22:34:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-26 22:35:48,659 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 22:35:48,659 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 22:35:48,661 - INFO -  * Restarting with stat
+2025-05-26 22:35:49,343 - WARNING -  * Debugger is active!
+2025-05-26 22:35:49,350 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 22:35:52,476 - INFO - 127.0.0.1 - - [26/May/2025 22:35:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:35:52,847 - INFO - 127.0.0.1 - - [26/May/2025 22:35:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-26 22:35:52,892 - INFO - 127.0.0.1 - - [26/May/2025 22:35:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-26 22:35:53,055 - INFO - 127.0.0.1 - - [26/May/2025 22:35:53] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Rlbyf0yUNl9bSsnUYR1u HTTP/1.1" 200 -
+2025-05-26 22:35:56,706 - INFO - 127.0.0.1 - - [26/May/2025 22:35:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-26 22:35:56,781 - INFO - 127.0.0.1 - - [26/May/2025 22:35:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-26 22:35:56,791 - INFO - 127.0.0.1 - - [26/May/2025 22:35:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-26 22:35:56,840 - INFO - 127.0.0.1 - - [26/May/2025 22:35:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=Rlbyf0yUNl9bSsnUYR1u HTTP/1.1[0m" 304 -
+2025-05-26 22:35:56,928 - INFO - 127.0.0.1 - - [26/May/2025 22:35:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-26 23:04:23,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:04:23,642 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:04:23,644 - INFO -  * Restarting with stat
+2025-05-26 23:04:24,256 - WARNING -  * Debugger is active!
+2025-05-26 23:04:24,262 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:04:26,741 - INFO - 127.0.0.1 - - [26/May/2025 23:04:26] "GET / HTTP/1.1" 200 -
+2025-05-26 23:04:27,145 - INFO - 127.0.0.1 - - [26/May/2025 23:04:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:04:27,169 - INFO - 127.0.0.1 - - [26/May/2025 23:04:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:04:27,390 - INFO - 127.0.0.1 - - [26/May/2025 23:04:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 23:04:27,861 - INFO - 127.0.0.1 - - [26/May/2025 23:04:27] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:04:27,892 - INFO - 127.0.0.1 - - [26/May/2025 23:04:27] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:04:40,174 - INFO - 127.0.0.1 - - [26/May/2025 23:04:40] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:11:33,475 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:11:33,476 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:11:33,477 - INFO -  * Restarting with stat
+2025-05-26 23:11:34,260 - WARNING -  * Debugger is active!
+2025-05-26 23:11:34,268 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:11:36,561 - INFO - 127.0.0.1 - - [26/May/2025 23:11:36] "GET / HTTP/1.1" 200 -
+2025-05-26 23:11:36,918 - INFO - 127.0.0.1 - - [26/May/2025 23:11:36] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:11:37,110 - INFO - 127.0.0.1 - - [26/May/2025 23:11:37] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:11:37,678 - INFO - 127.0.0.1 - - [26/May/2025 23:11:37] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:11:37,712 - INFO - 127.0.0.1 - - [26/May/2025 23:11:37] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:11:56,092 - INFO - 127.0.0.1 - - [26/May/2025 23:11:56] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:16:53,799 - INFO - 127.0.0.1 - - [26/May/2025 23:16:53] "GET /stream_output?os=Windows&scripts=10.wifi.ps1&scripts=11.syserr.ps1&scripts=12.services.ps1 HTTP/1.1" 200 -
+2025-05-26 23:19:58,058 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:19:58,058 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:19:58,059 - INFO -  * Restarting with stat
+2025-05-26 23:19:58,780 - WARNING -  * Debugger is active!
+2025-05-26 23:19:58,786 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:20:00,928 - INFO - 127.0.0.1 - - [26/May/2025 23:20:00] "GET / HTTP/1.1" 200 -
+2025-05-26 23:20:01,379 - INFO - 127.0.0.1 - - [26/May/2025 23:20:01] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:20:01,410 - INFO - 127.0.0.1 - - [26/May/2025 23:20:01] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:20:02,146 - INFO - 127.0.0.1 - - [26/May/2025 23:20:02] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:20:02,180 - INFO - 127.0.0.1 - - [26/May/2025 23:20:02] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:20:09,183 - INFO - 127.0.0.1 - - [26/May/2025 23:20:09] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:22,041 - INFO - 127.0.0.1 - - [26/May/2025 23:20:22] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:28,513 - INFO - 127.0.0.1 - - [26/May/2025 23:20:28] "GET /stream_output?os=Windows&scripts=11.syserr.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:35,118 - INFO - 127.0.0.1 - - [26/May/2025 23:20:35] "GET /stream_output?os=Windows&scripts=12.services.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:39,936 - INFO - 127.0.0.1 - - [26/May/2025 23:20:39] "GET /stream_output?os=Windows&scripts=13.tasks.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:44,085 - INFO - 127.0.0.1 - - [26/May/2025 23:20:44] "GET /stream_output?os=Windows&scripts=14.susproc.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:47,923 - INFO - 127.0.0.1 - - [26/May/2025 23:20:47] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:53,286 - INFO - 127.0.0.1 - - [26/May/2025 23:20:53] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-05-26 23:20:57,202 - INFO - 127.0.0.1 - - [26/May/2025 23:20:57] "GET /stream_output?os=Windows&scripts=2.admin.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:01,425 - INFO - 127.0.0.1 - - [26/May/2025 23:21:01] "GET /stream_output?os=Windows&scripts=18.password.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:06,844 - INFO - 127.0.0.1 - - [26/May/2025 23:21:06] "GET /stream_output?os=Windows&scripts=3.lockout.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:13,826 - INFO - 127.0.0.1 - - [26/May/2025 23:21:13] "GET /stream_output?os=Windows&scripts=4.users.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:18,561 - INFO - 127.0.0.1 - - [26/May/2025 23:21:18] "GET /stream_output?os=Windows&scripts=5.firewall.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:24,616 - INFO - 127.0.0.1 - - [26/May/2025 23:21:24] "GET /stream_output?os=Windows&scripts=7.downloads.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:28,246 - INFO - 127.0.0.1 - - [26/May/2025 23:21:28] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:21:35,569 - INFO - 127.0.0.1 - - [26/May/2025 23:21:35] "GET /stream_output?os=Windows&scripts=9.bluetooth.ps1 HTTP/1.1" 200 -
+2025-05-26 23:30:36,508 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:30:36,508 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:30:36,511 - INFO -  * Restarting with stat
+2025-05-26 23:30:37,598 - WARNING -  * Debugger is active!
+2025-05-26 23:30:37,606 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:30:50,528 - INFO - 127.0.0.1 - - [26/May/2025 23:30:50] "GET / HTTP/1.1" 200 -
+2025-05-26 23:30:50,763 - INFO - 127.0.0.1 - - [26/May/2025 23:30:50] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:30:50,780 - INFO - 127.0.0.1 - - [26/May/2025 23:30:50] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:30:51,084 - INFO - 127.0.0.1 - - [26/May/2025 23:30:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-26 23:30:51,311 - INFO - 127.0.0.1 - - [26/May/2025 23:30:51] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:30:51,324 - INFO - 127.0.0.1 - - [26/May/2025 23:30:51] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:30:54,691 - INFO - 127.0.0.1 - - [26/May/2025 23:30:54] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:31:34,811 - INFO - 127.0.0.1 - - [26/May/2025 23:31:34] "GET / HTTP/1.1" 200 -
+2025-05-26 23:31:34,864 - INFO - 127.0.0.1 - - [26/May/2025 23:31:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:31:34,865 - INFO - 127.0.0.1 - - [26/May/2025 23:31:34] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:31:35,034 - INFO - 127.0.0.1 - - [26/May/2025 23:31:35] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:31:35,083 - INFO - 127.0.0.1 - - [26/May/2025 23:31:35] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:32:43,782 - INFO - 127.0.0.1 - - [26/May/2025 23:32:43] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:32:54,053 - INFO - 127.0.0.1 - - [26/May/2025 23:32:54] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-05-26 23:33:12,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:33:12,862 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:33:12,865 - INFO -  * Restarting with stat
+2025-05-26 23:33:13,395 - WARNING -  * Debugger is active!
+2025-05-26 23:33:13,400 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:33:40,869 - INFO - 127.0.0.1 - - [26/May/2025 23:33:40] "GET / HTTP/1.1" 200 -
+2025-05-26 23:33:41,034 - INFO - 127.0.0.1 - - [26/May/2025 23:33:41] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:33:41,036 - INFO - 127.0.0.1 - - [26/May/2025 23:33:41] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:33:41,377 - INFO - 127.0.0.1 - - [26/May/2025 23:33:41] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:33:41,386 - INFO - 127.0.0.1 - - [26/May/2025 23:33:41] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:33:45,250 - INFO - 127.0.0.1 - - [26/May/2025 23:33:45] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:37:21,102 - INFO -  * Detected change in 'D:\\Major Pro\\major project\\app.py', reloading
+2025-05-26 23:37:21,263 - INFO -  * Restarting with stat
+2025-05-26 23:37:22,162 - WARNING -  * Debugger is active!
+2025-05-26 23:37:22,169 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:38:04,520 - INFO - 127.0.0.1 - - [26/May/2025 23:38:04] "GET / HTTP/1.1" 200 -
+2025-05-26 23:38:04,668 - INFO - 127.0.0.1 - - [26/May/2025 23:38:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:38:04,672 - INFO - 127.0.0.1 - - [26/May/2025 23:38:04] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:38:04,995 - INFO - 127.0.0.1 - - [26/May/2025 23:38:04] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:38:05,004 - INFO - 127.0.0.1 - - [26/May/2025 23:38:05] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:38:15,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:38:15,198 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:38:15,200 - INFO -  * Restarting with stat
+2025-05-26 23:38:15,723 - WARNING -  * Debugger is active!
+2025-05-26 23:38:15,725 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:38:22,107 - INFO - 127.0.0.1 - - [26/May/2025 23:38:22] "GET / HTTP/1.1" 200 -
+2025-05-26 23:38:22,275 - INFO - 127.0.0.1 - - [26/May/2025 23:38:22] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:38:22,286 - INFO - 127.0.0.1 - - [26/May/2025 23:38:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:38:22,575 - INFO - 127.0.0.1 - - [26/May/2025 23:38:22] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:38:22,591 - INFO - 127.0.0.1 - - [26/May/2025 23:38:22] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:38:26,278 - INFO - 127.0.0.1 - - [26/May/2025 23:38:26] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:38:26,279 - ERROR - A critical error occurred during the audit stream: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+Traceback (most recent call last):
+  File "D:\Major Pro\major project\app.py", line 102, in stream
+    script_path = os.path.join(current_app.config['SCRIPTS_DIR'], os_name, script_file)
+                               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\neera\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "C:\Users\neera\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\local.py", line 519, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2025-05-26 23:44:16,086 - INFO -  * Detected change in 'D:\\Major Pro\\major project\\app.py', reloading
+2025-05-26 23:44:16,168 - INFO -  * Restarting with stat
+2025-05-26 23:44:16,869 - WARNING -  * Debugger is active!
+2025-05-26 23:44:16,872 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:44:25,632 - INFO - 127.0.0.1 - - [26/May/2025 23:44:25] "GET / HTTP/1.1" 200 -
+2025-05-26 23:44:25,775 - INFO - 127.0.0.1 - - [26/May/2025 23:44:25] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:44:25,777 - INFO - 127.0.0.1 - - [26/May/2025 23:44:25] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:44:26,102 - INFO - 127.0.0.1 - - [26/May/2025 23:44:26] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:44:26,110 - INFO - 127.0.0.1 - - [26/May/2025 23:44:26] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:44:37,914 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-26 23:44:37,914 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 23:44:37,916 - INFO -  * Restarting with stat
+2025-05-26 23:44:38,444 - WARNING -  * Debugger is active!
+2025-05-26 23:44:38,446 - INFO -  * Debugger PIN: 749-258-739
+2025-05-26 23:44:40,175 - INFO - 127.0.0.1 - - [26/May/2025 23:44:40] "GET / HTTP/1.1" 200 -
+2025-05-26 23:44:40,323 - INFO - 127.0.0.1 - - [26/May/2025 23:44:40] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:44:40,329 - INFO - 127.0.0.1 - - [26/May/2025 23:44:40] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:44:40,488 - INFO - 127.0.0.1 - - [26/May/2025 23:44:40] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:44:40,496 - INFO - 127.0.0.1 - - [26/May/2025 23:44:40] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:44:41,041 - INFO - 127.0.0.1 - - [26/May/2025 23:44:41] "GET / HTTP/1.1" 200 -
+2025-05-26 23:44:41,093 - INFO - 127.0.0.1 - - [26/May/2025 23:44:41] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:44:41,095 - INFO - 127.0.0.1 - - [26/May/2025 23:44:41] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:44:41,130 - INFO - 127.0.0.1 - - [26/May/2025 23:44:41] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:44:41,172 - INFO - 127.0.0.1 - - [26/May/2025 23:44:41] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:44:44,679 - INFO - 127.0.0.1 - - [26/May/2025 23:44:44] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-05-26 23:45:06,788 - INFO - 127.0.0.1 - - [26/May/2025 23:45:06] "GET /stream_output?os=Windows&scripts=10.wifi.ps1&scripts=11.syserr.ps1&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-05-26 23:47:06,642 - INFO - 127.0.0.1 - - [26/May/2025 23:47:06] "GET /stream_output?os=Windows&scripts=10.wifi.ps1&scripts=11.syserr.ps1&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:50:38,847 - INFO - 127.0.0.1 - - [26/May/2025 23:50:38] "GET / HTTP/1.1" 200 -
+2025-05-26 23:50:38,935 - INFO - 127.0.0.1 - - [26/May/2025 23:50:38] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-26 23:50:38,936 - INFO - 127.0.0.1 - - [26/May/2025 23:50:38] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-26 23:50:39,074 - INFO - 127.0.0.1 - - [26/May/2025 23:50:39] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-26 23:50:39,211 - INFO - 127.0.0.1 - - [26/May/2025 23:50:39] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-05-26 23:50:43,374 - INFO - 127.0.0.1 - - [26/May/2025 23:50:43] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:51:10,610 - INFO - 127.0.0.1 - - [26/May/2025 23:51:10] "GET /stream_output?os=Windows&scripts=5.firewall.ps1&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:51:51,655 - INFO - 127.0.0.1 - - [26/May/2025 23:51:51] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:52:04,149 - INFO - 127.0.0.1 - - [26/May/2025 23:52:04] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-05-26 23:53:21,077 - INFO - 127.0.0.1 - - [26/May/2025 23:53:21] "GET /stream_output?os=Windows&scripts=5.firewall.ps1 HTTP/1.1" 200 -
+2025-05-27 00:02:08,065 - INFO - 127.0.0.1 - - [27/May/2025 00:02:08] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-05-27 00:02:19,291 - INFO - 127.0.0.1 - - [27/May/2025 00:02:19] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-05-27 00:02:29,919 - INFO - 127.0.0.1 - - [27/May/2025 00:02:29] "GET /stream_output?os=Windows&scripts=12.services.ps1 HTTP/1.1" 200 -
+2025-05-27 00:03:03,108 - INFO - 127.0.0.1 - - [27/May/2025 00:03:03] "GET /download_report?path=D:\\Major%20Pro\\major%20project\\reports\\audit_report_b0d87a1c-41bc-428d-b843-241c1a75bfac.pdf HTTP/1.1" 200 -
+2025-05-27 14:49:11,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 14:49:11,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 14:49:11,575 - INFO -  * Restarting with stat
+2025-05-27 14:49:12,284 - WARNING -  * Debugger is active!
+2025-05-27 14:49:12,296 - INFO -  * Debugger PIN: 969-253-598
+2025-05-27 14:49:15,489 - INFO - 127.0.0.1 - - [27/May/2025 14:49:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 14:49:15,713 - INFO - 127.0.0.1 - - [27/May/2025 14:49:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-27 14:49:15,723 - INFO - 127.0.0.1 - - [27/May/2025 14:49:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-27 14:49:15,979 - INFO - 127.0.0.1 - - [27/May/2025 14:49:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=1EnWTrYGKlsoF2U7DmZg HTTP/1.1" 200 -
+2025-05-27 15:19:07,089 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 15:19:07,090 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 15:19:07,092 - INFO -  * Restarting with stat
+2025-05-27 15:19:07,362 - WARNING -  * Debugger is active!
+2025-05-27 15:19:07,383 - INFO -  * Debugger PIN: 555-774-620
+2025-05-27 15:19:16,006 - INFO - 127.0.0.1 - - [27/May/2025 15:19:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 15:19:16,165 - INFO - 127.0.0.1 - - [27/May/2025 15:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-27 15:19:16,169 - INFO - 127.0.0.1 - - [27/May/2025 15:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-27 15:19:16,281 - INFO - 127.0.0.1 - - [27/May/2025 15:19:16] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=La8mvya1wl0CKMVOunGl HTTP/1.1" 200 -
+2025-05-27 15:19:18,653 - INFO - 127.0.0.1 - - [27/May/2025 15:19:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 15:19:18,789 - INFO - 127.0.0.1 - - [27/May/2025 15:19:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-27 15:19:18,799 - INFO - 127.0.0.1 - - [27/May/2025 15:19:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-27 15:19:18,914 - INFO - 127.0.0.1 - - [27/May/2025 15:19:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=La8mvya1wl0CKMVOunGl HTTP/1.1[0m" 304 -
+2025-05-27 15:19:19,029 - INFO - 127.0.0.1 - - [27/May/2025 15:19:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-27 15:19:22,804 - INFO - 127.0.0.1 - - [27/May/2025 15:19:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 15:19:22,901 - INFO - 127.0.0.1 - - [27/May/2025 15:19:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-27 15:19:22,903 - INFO - 127.0.0.1 - - [27/May/2025 15:19:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-27 15:19:22,960 - INFO - 127.0.0.1 - - [27/May/2025 15:19:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=La8mvya1wl0CKMVOunGl HTTP/1.1[0m" 304 -
+2025-05-27 15:19:23,038 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-27 15:19:23,129 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 15:19:23,219 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-27 15:19:23,223 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-27 15:19:23,311 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=La8mvya1wl0CKMVOunGl HTTP/1.1[0m" 304 -
+2025-05-27 15:19:23,373 - INFO - 127.0.0.1 - - [27/May/2025 15:19:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-27 15:19:41,105 - INFO - 127.0.0.1 - - [27/May/2025 15:19:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-27 15:19:41,204 - INFO - 127.0.0.1 - - [27/May/2025 15:19:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-27 15:19:41,206 - INFO - 127.0.0.1 - - [27/May/2025 15:19:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-27 15:19:41,288 - INFO - 127.0.0.1 - - [27/May/2025 15:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=La8mvya1wl0CKMVOunGl HTTP/1.1" 200 -
+2025-05-27 15:19:41,318 - INFO - 127.0.0.1 - - [27/May/2025 15:19:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-27 15:22:51,116 - INFO -  * Detected change in '/home/mysanity/Downloads/major project/app.py', reloading
+2025-05-27 15:22:51,250 - INFO -  * Restarting with stat
+2025-05-27 15:29:11,691 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-27 15:29:11,692 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-27 15:29:11,693 - INFO -  * Restarting with stat
+2025-05-27 15:29:11,952 - WARNING -  * Debugger is active!
+2025-05-27 15:29:11,956 - INFO -  * Debugger PIN: 555-774-620
+2025-05-27 15:29:15,085 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "GET / HTTP/1.1" 200 -
+2025-05-27 15:29:15,178 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-27 15:29:15,178 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-27 15:29:15,301 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-27 15:29:15,350 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-05-27 15:29:15,354 - INFO - 127.0.0.1 - - [27/May/2025 15:29:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-27 15:29:22,895 - INFO - 127.0.0.1 - - [27/May/2025 15:29:22] "GET /stream_output?os=Linux&scripts=8.wifi.sh HTTP/1.1" 200 -
+2025-05-27 15:29:42,519 - INFO - 127.0.0.1 - - [27/May/2025 15:29:42] "GET / HTTP/1.1" 200 -
+2025-05-27 15:29:42,635 - INFO - 127.0.0.1 - - [27/May/2025 15:29:42] "GET /static/style.css HTTP/1.1" 200 -
+2025-05-27 15:29:42,637 - INFO - 127.0.0.1 - - [27/May/2025 15:29:42] "GET /static/script.js HTTP/1.1" 200 -
+2025-05-27 15:29:42,719 - INFO - 127.0.0.1 - - [27/May/2025 15:29:42] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-05-27 15:29:42,747 - INFO - 127.0.0.1 - - [27/May/2025 15:29:42] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-05-27 15:29:45,153 - INFO - 127.0.0.1 - - [27/May/2025 15:29:45] "GET /stream_output?os=Linux&scripts=1.password.sh HTTP/1.1" 200 -
+2025-05-27 15:32:09,106 - INFO - 127.0.0.1 - - [27/May/2025 15:32:09] "GET /stream_output?os=Linux&scripts=10.sysaudit.sh HTTP/1.1" 200 -
+2025-05-27 15:32:45,800 - INFO - 127.0.0.1 - - [27/May/2025 15:32:45] "GET /stream_output?os=Linux&scripts=12.driver.sh HTTP/1.1" 200 -
+2025-06-09 12:46:02,315 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-09 12:46:02,316 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-09 12:46:02,318 - INFO -  * Restarting with stat
+2025-06-09 12:46:03,047 - WARNING -  * Debugger is active!
+2025-06-09 12:46:03,058 - INFO -  * Debugger PIN: 749-258-739
+2025-06-09 12:46:09,735 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:09] "GET / HTTP/1.1" 200 -
+2025-06-09 12:46:10,163 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-09 12:46:10,345 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:10] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-09 12:46:10,467 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-09 12:46:10,826 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:10] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-09 12:46:10,868 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:10] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-09 12:46:19,549 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:19] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-09 12:46:26,195 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:26] "GET /download_report?path=D:\\major%20project%20final\\reports\\audit_report_16f33cca-a76e-4569-8d73-d9c19802af07.pdf HTTP/1.1" 200 -
+2025-06-09 12:46:51,350 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:51] "GET / HTTP/1.1" 200 -
+2025-06-09 12:46:51,423 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-09 12:46:51,437 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-09 12:46:51,486 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:51] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-09 12:46:51,523 - INFO - 127.0.0.1 - - [09/Jun/2025 12:46:51] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-09 12:59:47,395 - INFO - 127.0.0.1 - - [09/Jun/2025 12:59:47] "GET /stream_output?os=Windows&scripts=16.malware.ps1&scripts=5.firewall.ps1 HTTP/1.1" 200 -
+2025-06-09 13:01:17,144 - INFO - 127.0.0.1 - - [09/Jun/2025 13:01:17] "GET /download_report?path=D:\\major%20project%20final\\reports\\audit_report_a6b37edf-176e-4a00-a9e2-49e6093ebf8a.pdf HTTP/1.1" 200 -
+2025-06-09 13:08:33,219 - INFO - 127.0.0.1 - - [09/Jun/2025 13:08:33] "GET / HTTP/1.1" 200 -
+2025-06-09 13:08:33,293 - INFO - 127.0.0.1 - - [09/Jun/2025 13:08:33] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-09 13:08:33,317 - INFO - 127.0.0.1 - - [09/Jun/2025 13:08:33] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-09 13:08:33,369 - INFO - 127.0.0.1 - - [09/Jun/2025 13:08:33] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-09 13:08:33,424 - INFO - 127.0.0.1 - - [09/Jun/2025 13:08:33] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-09 13:35:51,220 - INFO - 127.0.0.1 - - [09/Jun/2025 13:35:51] "GET / HTTP/1.1" 200 -
+2025-06-09 13:35:51,329 - INFO - 127.0.0.1 - - [09/Jun/2025 13:35:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-09 13:35:51,346 - INFO - 127.0.0.1 - - [09/Jun/2025 13:35:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-09 13:35:51,554 - INFO - 127.0.0.1 - - [09/Jun/2025 13:35:51] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-09 13:35:51,639 - INFO - 127.0.0.1 - - [09/Jun/2025 13:35:51] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-09 13:36:01,322 - INFO - 127.0.0.1 - - [09/Jun/2025 13:36:01] "GET /stream_output?os=Windows&scripts=14.susproc.ps1 HTTP/1.1" 200 -
+2025-06-13 14:14:24,805 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 14:14:24,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 14:14:24,809 - INFO -  * Restarting with stat
+2025-06-13 14:14:25,693 - WARNING -  * Debugger is active!
+2025-06-13 14:14:25,700 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 14:14:28,896 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:28] "GET / HTTP/1.1" 200 -
+2025-06-13 14:14:29,134 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:29] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:14:29,211 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:29] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:14:29,334 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-13 14:14:29,436 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:29] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:14:29,497 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:29] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:14:43,066 - INFO - 127.0.0.1 - - [13/Jun/2025 14:14:43] "GET /stream_output?os=Windows&scripts=5.firewall.ps1 HTTP/1.1" 200 -
+2025-06-13 14:15:00,325 - INFO - 127.0.0.1 - - [13/Jun/2025 14:15:00] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 14:28:45,389 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 14:28:45,389 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 14:28:45,391 - INFO -  * Restarting with stat
+2025-06-13 14:28:45,981 - WARNING -  * Debugger is active!
+2025-06-13 14:28:45,987 - INFO -  * Debugger PIN: 983-916-394
+2025-06-13 14:28:48,027 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:48] "GET / HTTP/1.1" 200 -
+2025-06-13 14:28:48,562 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:48] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:28:48,611 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:28:48,828 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:48] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:28:48,847 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:48] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:28:58,917 - INFO - 127.0.0.1 - - [13/Jun/2025 14:28:58] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 14:31:27,337 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 14:31:27,337 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 14:31:27,339 - INFO -  * Restarting with stat
+2025-06-13 14:31:27,998 - WARNING -  * Debugger is active!
+2025-06-13 14:31:28,004 - INFO -  * Debugger PIN: 983-916-394
+2025-06-13 14:31:30,714 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:30] "GET / HTTP/1.1" 200 -
+2025-06-13 14:31:30,963 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:30] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:31:30,972 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:30] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:31:31,309 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:31] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:31:31,326 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:31] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:31:35,950 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:35] "GET / HTTP/1.1" 200 -
+2025-06-13 14:31:36,004 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:36] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:31:36,017 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:36] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:31:36,075 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:36] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:31:36,123 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:36] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:31:46,280 - INFO - 127.0.0.1 - - [13/Jun/2025 14:31:46] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 14:53:32,111 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 14:53:32,112 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 14:53:32,115 - INFO -  * Restarting with stat
+2025-06-13 14:53:32,643 - WARNING -  * Debugger is active!
+2025-06-13 14:53:32,646 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 14:53:43,922 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:43] "GET / HTTP/1.1" 200 -
+2025-06-13 14:53:44,114 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:44] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:53:44,115 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:44] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:53:44,343 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:44] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:53:44,360 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:44] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:53:48,325 - INFO - 127.0.0.1 - - [13/Jun/2025 14:53:48] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 14:57:47,289 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 14:57:47,289 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 14:57:47,291 - INFO -  * Restarting with stat
+2025-06-13 14:57:47,805 - WARNING -  * Debugger is active!
+2025-06-13 14:57:47,808 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 14:57:55,842 - INFO - 127.0.0.1 - - [13/Jun/2025 14:57:55] "GET / HTTP/1.1" 200 -
+2025-06-13 14:57:55,988 - INFO - 127.0.0.1 - - [13/Jun/2025 14:57:55] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 14:57:55,995 - INFO - 127.0.0.1 - - [13/Jun/2025 14:57:55] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 14:57:56,235 - INFO - 127.0.0.1 - - [13/Jun/2025 14:57:56] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 14:57:56,258 - INFO - 127.0.0.1 - - [13/Jun/2025 14:57:56] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 14:58:01,033 - INFO - 127.0.0.1 - - [13/Jun/2025 14:58:01] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 15:03:24,873 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 15:03:24,873 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 15:03:24,876 - INFO -  * Restarting with stat
+2025-06-13 15:03:25,403 - WARNING -  * Debugger is active!
+2025-06-13 15:03:25,406 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 15:03:27,518 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET / HTTP/1.1" 200 -
+2025-06-13 15:03:27,686 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET / HTTP/1.1" 200 -
+2025-06-13 15:03:27,690 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 15:03:27,705 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 15:03:27,761 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 15:03:27,770 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 15:03:27,979 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 15:03:27,992 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:27] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 15:03:39,699 - INFO - 127.0.0.1 - - [13/Jun/2025 15:03:39] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 15:04:46,967 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 15:04:46,967 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 15:04:46,969 - INFO -  * Restarting with stat
+2025-06-13 15:04:47,474 - WARNING -  * Debugger is active!
+2025-06-13 15:04:47,476 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 15:04:49,589 - INFO - 127.0.0.1 - - [13/Jun/2025 15:04:49] "GET / HTTP/1.1" 200 -
+2025-06-13 15:04:49,751 - INFO - 127.0.0.1 - - [13/Jun/2025 15:04:49] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 15:04:49,756 - INFO - 127.0.0.1 - - [13/Jun/2025 15:04:49] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 15:04:49,921 - INFO - 127.0.0.1 - - [13/Jun/2025 15:04:49] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 15:04:49,938 - INFO - 127.0.0.1 - - [13/Jun/2025 15:04:49] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 15:05:07,733 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:07] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 15:05:53,013 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 15:05:53,013 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 15:05:53,017 - INFO -  * Restarting with stat
+2025-06-13 15:05:53,529 - WARNING -  * Debugger is active!
+2025-06-13 15:05:53,534 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 15:05:56,241 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:56] "GET / HTTP/1.1" 200 -
+2025-06-13 15:05:56,409 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:56] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 15:05:56,411 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 15:05:56,565 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:56] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 15:05:56,578 - INFO - 127.0.0.1 - - [13/Jun/2025 15:05:56] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 15:06:03,731 - INFO - 127.0.0.1 - - [13/Jun/2025 15:06:03] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 15:08:20,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 15:08:20,358 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 15:08:20,360 - INFO -  * Restarting with stat
+2025-06-13 15:08:21,078 - WARNING -  * Debugger is active!
+2025-06-13 15:08:21,085 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 15:08:23,679 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:23] "GET / HTTP/1.1" 200 -
+2025-06-13 15:08:23,852 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:23] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 15:08:23,854 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:23] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 15:08:24,234 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:24] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 15:08:24,252 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:24] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 15:08:30,919 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:30] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 15:08:54,744 - INFO - 127.0.0.1 - - [13/Jun/2025 15:08:54] "GET /stream_output?os=Windows&scripts=7.downloads.ps1 HTTP/1.1" 200 -
+2025-06-13 16:07:49,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 16:07:49,454 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 16:07:49,459 - INFO -  * Restarting with stat
+2025-06-13 16:07:50,545 - WARNING -  * Debugger is active!
+2025-06-13 16:07:50,552 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 16:07:52,479 - INFO - 127.0.0.1 - - [13/Jun/2025 16:07:52] "GET / HTTP/1.1" 200 -
+2025-06-13 16:07:52,716 - INFO - 127.0.0.1 - - [13/Jun/2025 16:07:52] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:07:52,741 - INFO - 127.0.0.1 - - [13/Jun/2025 16:07:52] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:07:53,064 - INFO - 127.0.0.1 - - [13/Jun/2025 16:07:53] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:07:53,082 - INFO - 127.0.0.1 - - [13/Jun/2025 16:07:53] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:08:02,332 - INFO - 127.0.0.1 - - [13/Jun/2025 16:08:02] "GET /stream_output?os=Windows&scripts=9.bluetooth.ps1 HTTP/1.1" 200 -
+2025-06-13 16:09:13,335 - INFO - 127.0.0.1 - - [13/Jun/2025 16:09:13] "GET /stream_output?os=Windows&scripts=9.bluetooth.ps1 HTTP/1.1" 200 -
+2025-06-13 16:11:59,186 - INFO - 127.0.0.1 - - [13/Jun/2025 16:11:59] "GET / HTTP/1.1" 200 -
+2025-06-13 16:11:59,257 - INFO - 127.0.0.1 - - [13/Jun/2025 16:11:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:11:59,269 - INFO - 127.0.0.1 - - [13/Jun/2025 16:11:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:11:59,309 - INFO - 127.0.0.1 - - [13/Jun/2025 16:11:59] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:11:59,342 - INFO - 127.0.0.1 - - [13/Jun/2025 16:11:59] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:12:02,750 - INFO - 127.0.0.1 - - [13/Jun/2025 16:12:02] "GET /stream_output?os=Windows&scripts=9.bluetooth.ps1 HTTP/1.1" 200 -
+2025-06-13 16:13:20,281 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:20] "GET / HTTP/1.1" 200 -
+2025-06-13 16:13:20,355 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:20] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:13:20,371 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:20] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:13:20,415 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:20] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:13:20,470 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:20] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:13:27,202 - INFO - 127.0.0.1 - - [13/Jun/2025 16:13:27] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:14:54,271 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:54] "GET / HTTP/1.1" 200 -
+2025-06-13 16:14:54,353 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:54] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:14:54,362 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:54] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:14:54,412 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:54] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:14:54,454 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:54] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:14:57,991 - INFO - 127.0.0.1 - - [13/Jun/2025 16:14:57] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:15:59,341 - INFO - 127.0.0.1 - - [13/Jun/2025 16:15:59] "GET / HTTP/1.1" 200 -
+2025-06-13 16:15:59,415 - INFO - 127.0.0.1 - - [13/Jun/2025 16:15:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:15:59,427 - INFO - 127.0.0.1 - - [13/Jun/2025 16:15:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:15:59,464 - INFO - 127.0.0.1 - - [13/Jun/2025 16:15:59] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:15:59,504 - INFO - 127.0.0.1 - - [13/Jun/2025 16:15:59] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:16:02,678 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:02] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:16:56,202 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:56] "GET / HTTP/1.1" 200 -
+2025-06-13 16:16:56,280 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:16:56,293 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:56] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:16:56,335 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:56] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:16:56,374 - INFO - 127.0.0.1 - - [13/Jun/2025 16:16:56] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:17:01,471 - INFO - 127.0.0.1 - - [13/Jun/2025 16:17:01] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:21:54,238 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:54] "GET / HTTP/1.1" 200 -
+2025-06-13 16:21:54,333 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:54] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:21:54,356 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:54] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:21:54,482 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:54] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:21:54,534 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:54] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:21:57,622 - INFO - 127.0.0.1 - - [13/Jun/2025 16:21:57] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:22:18,603 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 16:22:18,604 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 16:22:18,607 - INFO -  * Restarting with stat
+2025-06-13 16:22:19,307 - WARNING -  * Debugger is active!
+2025-06-13 16:22:19,313 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 16:22:26,147 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:26] "GET / HTTP/1.1" 200 -
+2025-06-13 16:22:26,411 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:26] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:22:26,449 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:26] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:22:27,484 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:27] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:22:27,510 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:27] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:22:32,915 - INFO - 127.0.0.1 - - [13/Jun/2025 16:22:32] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:23:17,179 - INFO -  * Detected change in 'd:\\mpf\\app.py', reloading
+2025-06-13 16:23:17,380 - INFO -  * Restarting with stat
+2025-06-13 16:24:24,630 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 16:24:24,630 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 16:24:24,632 - INFO -  * Restarting with stat
+2025-06-13 16:24:25,350 - WARNING -  * Debugger is active!
+2025-06-13 16:24:25,359 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 16:24:26,951 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:26] "GET / HTTP/1.1" 200 -
+2025-06-13 16:24:27,221 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:24:27,233 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:24:27,881 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:27] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:24:27,907 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:27] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:24:36,751 - INFO - 127.0.0.1 - - [13/Jun/2025 16:24:36] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:26:34,840 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:34] "GET / HTTP/1.1" 200 -
+2025-06-13 16:26:34,948 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:34] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:26:34,951 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:34] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:26:35,062 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:35] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:26:35,182 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:35] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:26:38,119 - INFO - 127.0.0.1 - - [13/Jun/2025 16:26:38] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:29:59,216 - INFO - 127.0.0.1 - - [13/Jun/2025 16:29:59] "GET / HTTP/1.1" 200 -
+2025-06-13 16:29:59,282 - INFO - 127.0.0.1 - - [13/Jun/2025 16:29:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:29:59,290 - INFO - 127.0.0.1 - - [13/Jun/2025 16:29:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:29:59,350 - INFO - 127.0.0.1 - - [13/Jun/2025 16:29:59] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:29:59,415 - INFO - 127.0.0.1 - - [13/Jun/2025 16:29:59] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:30:02,355 - INFO - 127.0.0.1 - - [13/Jun/2025 16:30:02] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:31:50,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 16:31:50,521 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 16:31:50,525 - INFO -  * Restarting with stat
+2025-06-13 16:31:51,103 - WARNING -  * Debugger is active!
+2025-06-13 16:31:51,108 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 16:31:52,696 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:52] "GET / HTTP/1.1" 200 -
+2025-06-13 16:31:52,953 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:52] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:31:52,963 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:52] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:31:53,338 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:53] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:31:53,353 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:53] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:31:56,831 - INFO - 127.0.0.1 - - [13/Jun/2025 16:31:56] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:34:28,496 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:28] "GET / HTTP/1.1" 200 -
+2025-06-13 16:34:28,567 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:28] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:34:28,574 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:28] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:34:28,607 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:28] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:34:28,643 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:28] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:34:31,907 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:31] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:34:40,890 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:40] "GET /stream_output?os=Windows&scripts=9.bluetooth.ps1 HTTP/1.1" 200 -
+2025-06-13 16:34:53,201 - INFO - 127.0.0.1 - - [13/Jun/2025 16:34:53] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-06-13 16:35:08,786 - INFO - 127.0.0.1 - - [13/Jun/2025 16:35:08] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:36:07,859 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:07] "GET / HTTP/1.1" 200 -
+2025-06-13 16:36:07,940 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:07] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:36:07,956 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:07] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:36:08,051 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:08] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:36:08,091 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:08] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:36:11,450 - INFO - 127.0.0.1 - - [13/Jun/2025 16:36:11] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:37:24,199 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:24] "GET / HTTP/1.1" 200 -
+2025-06-13 16:37:24,277 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:24] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:37:24,284 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:24] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:37:24,318 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:24] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:37:24,351 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:24] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:37:28,111 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:28] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:37:38,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 16:37:38,465 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 16:37:38,469 - INFO -  * Restarting with stat
+2025-06-13 16:37:39,110 - WARNING -  * Debugger is active!
+2025-06-13 16:37:39,117 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 16:37:41,077 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:41] "GET / HTTP/1.1" 200 -
+2025-06-13 16:37:41,285 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:41] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:37:41,325 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:41] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:37:41,828 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:41] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:37:41,846 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:41] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:37:51,336 - INFO - 127.0.0.1 - - [13/Jun/2025 16:37:51] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:44:23,464 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:23] "GET / HTTP/1.1" 200 -
+2025-06-13 16:44:23,537 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:23] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:44:23,544 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:23] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:44:23,618 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:23] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:44:23,691 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:23] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:44:28,197 - INFO - 127.0.0.1 - - [13/Jun/2025 16:44:28] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:46:26,369 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:26] "GET / HTTP/1.1" 200 -
+2025-06-13 16:46:26,453 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:26] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:46:26,454 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:26] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:46:26,486 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:26] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:46:26,537 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:26] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:46:30,549 - INFO - 127.0.0.1 - - [13/Jun/2025 16:46:30] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:47:00,322 - INFO - 127.0.0.1 - - [13/Jun/2025 16:47:00] "GET /stream_output?os=Windows&scripts=11.syserr.ps1 HTTP/1.1" 200 -
+2025-06-13 16:47:45,322 - INFO - 127.0.0.1 - - [13/Jun/2025 16:47:45] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-13 16:47:56,173 - INFO - 127.0.0.1 - - [13/Jun/2025 16:47:56] "GET /stream_output?os=Windows&scripts=4.users.ps1 HTTP/1.1" 200 -
+2025-06-13 16:48:09,718 - INFO - 127.0.0.1 - - [13/Jun/2025 16:48:09] "GET /stream_output?os=Windows&scripts=18.password.ps1 HTTP/1.1" 200 -
+2025-06-13 16:48:16,455 - INFO - 127.0.0.1 - - [13/Jun/2025 16:48:16] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:49:13,034 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:13] "GET / HTTP/1.1" 200 -
+2025-06-13 16:49:13,104 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:49:13,116 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:13] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:49:13,155 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:13] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:49:13,194 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:13] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:49:16,582 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:16] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:49:33,071 - INFO - 127.0.0.1 - - [13/Jun/2025 16:49:33] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 16:51:06,232 - INFO - 127.0.0.1 - - [13/Jun/2025 16:51:06] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:52:23,423 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:23] "GET / HTTP/1.1" 200 -
+2025-06-13 16:52:23,569 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:23] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:52:23,581 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:23] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:52:23,703 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:23] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:52:23,730 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:23] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:52:32,404 - INFO - 127.0.0.1 - - [13/Jun/2025 16:52:32] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:53:42,238 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:42] "GET / HTTP/1.1" 200 -
+2025-06-13 16:53:42,303 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:42] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:53:42,317 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:42] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:53:42,350 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:42] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:53:42,384 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:42] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:53:46,586 - INFO - 127.0.0.1 - - [13/Jun/2025 16:53:46] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:54:55,199 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:55] "GET / HTTP/1.1" 200 -
+2025-06-13 16:54:55,275 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:55] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 16:54:55,278 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:55] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 16:54:55,320 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:55] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 16:54:55,387 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:55] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 16:54:59,022 - INFO - 127.0.0.1 - - [13/Jun/2025 16:54:59] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:55:53,738 - INFO - 127.0.0.1 - - [13/Jun/2025 16:55:53] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:56:21,801 - INFO - 127.0.0.1 - - [13/Jun/2025 16:56:21] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:58:18,549 - INFO - 127.0.0.1 - - [13/Jun/2025 16:58:18] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 16:59:29,380 - INFO - 127.0.0.1 - - [13/Jun/2025 16:59:29] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 17:00:27,306 - INFO - 127.0.0.1 - - [13/Jun/2025 17:00:27] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-13 17:00:49,769 - INFO - 127.0.0.1 - - [13/Jun/2025 17:00:49] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-06-13 17:01:53,274 - INFO - 127.0.0.1 - - [13/Jun/2025 17:01:53] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-06-13 17:02:27,333 - INFO - 127.0.0.1 - - [13/Jun/2025 17:02:27] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-06-13 17:03:32,734 - INFO - 127.0.0.1 - - [13/Jun/2025 17:03:32] "GET /stream_output?os=Windows&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-06-13 17:04:48,403 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-13 17:04:48,403 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-13 17:04:48,412 - INFO -  * Restarting with stat
+2025-06-13 17:04:49,880 - WARNING -  * Debugger is active!
+2025-06-13 17:04:49,884 - INFO -  * Debugger PIN: 534-407-237
+2025-06-13 17:04:51,739 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:51] "GET / HTTP/1.1" 200 -
+2025-06-13 17:04:52,094 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:52] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-13 17:04:52,184 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:52] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-13 17:04:53,079 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:53] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-13 17:04:53,098 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:53] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-13 17:04:56,381 - INFO - 127.0.0.1 - - [13/Jun/2025 17:04:56] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:01,527 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:01] "GET /stream_output?os=Windows&scripts=11.syserr.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:08,909 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:08] "GET /stream_output?os=Windows&scripts=12.services.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:21,527 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:21] "GET /stream_output?os=Windows&scripts=13.tasks.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:33,919 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:33] "GET /stream_output?os=Windows&scripts=14.susproc.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:47,397 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:47] "GET /stream_output?os=Windows&scripts=18.password.ps1 HTTP/1.1" 200 -
+2025-06-13 17:05:59,118 - INFO - 127.0.0.1 - - [13/Jun/2025 17:05:59] "GET /stream_output?os=Windows&scripts=2.admin.ps1 HTTP/1.1" 200 -
+2025-06-13 17:06:09,393 - INFO - 127.0.0.1 - - [13/Jun/2025 17:06:09] "GET /stream_output?os=Windows&scripts=3.lockout.ps1 HTTP/1.1" 200 -
+2025-06-13 17:06:27,427 - INFO - 127.0.0.1 - - [13/Jun/2025 17:06:27] "GET /stream_output?os=Windows&scripts=4.users.ps1 HTTP/1.1" 200 -
+2025-06-13 17:06:32,279 - INFO - 127.0.0.1 - - [13/Jun/2025 17:06:32] "GET /stream_output?os=Windows&scripts=5.firewall.ps1 HTTP/1.1" 200 -
+2025-06-13 17:06:41,275 - INFO - 127.0.0.1 - - [13/Jun/2025 17:06:41] "GET /stream_output?os=Windows&scripts=7.downloads.ps1 HTTP/1.1" 200 -
+2025-06-14 14:09:39,204 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 14:09:39,205 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 14:09:39,207 - INFO -  * Restarting with stat
+2025-06-14 14:09:39,483 - WARNING -  * Debugger is active!
+2025-06-14 14:09:39,492 - INFO -  * Debugger PIN: 121-033-632
+2025-06-14 14:09:43,668 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:43] "GET / HTTP/1.1" 200 -
+2025-06-14 14:09:43,865 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:09:43,879 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:43] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:09:44,161 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:44] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:09:44,236 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:44] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:09:44,239 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 14:09:52,410 - INFO - 127.0.0.1 - - [14/Jun/2025 14:09:52] "GET /stream_output?os=Linux&scripts=1.password.sh HTTP/1.1" 200 -
+2025-06-14 14:10:20,474 - INFO - 127.0.0.1 - - [14/Jun/2025 14:10:20] "GET /stream_output?os=Linux&scripts=8.wifi.sh HTTP/1.1" 200 -
+2025-06-14 14:16:55,376 - INFO - 127.0.0.1 - - [14/Jun/2025 14:16:55] "GET /stream_output?os=Linux&scripts=9.bluetooth.sh HTTP/1.1" 200 -
+2025-06-14 14:21:59,545 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 14:21:59,545 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 14:21:59,546 - INFO -  * Restarting with stat
+2025-06-14 14:21:59,806 - WARNING -  * Debugger is active!
+2025-06-14 14:21:59,810 - INFO -  * Debugger PIN: 121-033-632
+2025-06-14 14:22:04,390 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:04] "GET / HTTP/1.1" 200 -
+2025-06-14 14:22:04,488 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:22:04,490 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:04] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:22:04,629 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:04] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:22:04,698 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:04] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:22:14,222 - INFO - 127.0.0.1 - - [14/Jun/2025 14:22:14] "GET /stream_output?os=Linux&scripts=8.wifi.sh HTTP/1.1" 200 -
+2025-06-14 14:25:07,261 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:07] "GET / HTTP/1.1" 200 -
+2025-06-14 14:25:07,350 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:07] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:25:07,352 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:07] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:25:07,424 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:07] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:25:07,492 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:07] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:25:11,764 - INFO - 127.0.0.1 - - [14/Jun/2025 14:25:11] "GET /stream_output?os=Linux&scripts=8.wifi.sh HTTP/1.1" 200 -
+2025-06-14 14:28:13,288 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 14:28:13,288 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 14:28:13,290 - INFO -  * Restarting with stat
+2025-06-14 14:28:13,535 - WARNING -  * Debugger is active!
+2025-06-14 14:28:13,539 - INFO -  * Debugger PIN: 121-033-632
+2025-06-14 14:28:16,345 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:16] "GET / HTTP/1.1" 200 -
+2025-06-14 14:28:16,446 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:16] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:28:16,449 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:16] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:28:16,566 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:16] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:28:16,662 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:16] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:28:22,800 - INFO - 127.0.0.1 - - [14/Jun/2025 14:28:22] "GET /stream_output?os=Linux&scripts=9.bluetooth.sh HTTP/1.1" 200 -
+2025-06-14 14:29:27,678 - INFO - 127.0.0.1 - - [14/Jun/2025 14:29:27] "GET /stream_output?os=Linux&scripts=11.syslog.sh HTTP/1.1" 200 -
+2025-06-14 14:34:53,557 - INFO - 127.0.0.1 - - [14/Jun/2025 14:34:53] "GET /stream_output?os=Linux&scripts=11.syslog.sh HTTP/1.1" 200 -
+2025-06-14 14:37:03,145 - INFO - 127.0.0.1 - - [14/Jun/2025 14:37:03] "GET /stream_output?os=Linux&scripts=11.syslog.sh HTTP/1.1" 200 -
+2025-06-14 14:39:00,044 - INFO - 127.0.0.1 - - [14/Jun/2025 14:39:00] "GET /stream_output?os=Linux&scripts=12.driver.sh HTTP/1.1" 200 -
+2025-06-14 14:41:13,176 - INFO - 127.0.0.1 - - [14/Jun/2025 14:41:13] "GET /stream_output?os=Linux&scripts=12.driver.sh HTTP/1.1" 200 -
+2025-06-14 14:42:05,596 - INFO - 127.0.0.1 - - [14/Jun/2025 14:42:05] "GET /stream_output?os=Linux&scripts=7.usbcheck.sh HTTP/1.1" 200 -
+2025-06-14 14:45:02,779 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:02] "GET / HTTP/1.1" 200 -
+2025-06-14 14:45:02,885 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:02] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:45:02,889 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:02] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:45:02,944 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:02] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:45:03,001 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:03] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:45:16,866 - INFO - 127.0.0.1 - - [14/Jun/2025 14:45:16] "GET /stream_output?os=Linux&scripts=5.firewall.sh HTTP/1.1" 200 -
+2025-06-14 14:46:34,658 - INFO - 127.0.0.1 - - [14/Jun/2025 14:46:34] "GET /stream_output?os=Linux&scripts=7.usbcheck.sh HTTP/1.1" 200 -
+2025-06-14 14:47:10,303 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:10] "GET / HTTP/1.1" 200 -
+2025-06-14 14:47:10,411 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:47:10,415 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:10] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:47:10,483 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:10] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:47:10,522 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:10] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:47:18,789 - INFO - 127.0.0.1 - - [14/Jun/2025 14:47:18] "GET /stream_output?os=Linux&scripts=5.firewall.sh HTTP/1.1" 200 -
+2025-06-14 14:52:58,996 - INFO - 127.0.0.1 - - [14/Jun/2025 14:52:58] "GET /stream_output?os=Linux&scripts=5.firewall.sh HTTP/1.1" 200 -
+2025-06-14 14:53:11,711 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:11] "GET /stream_output?os=Linux&scripts=6.appfirewall.sh HTTP/1.1" 200 -
+2025-06-14 14:53:27,396 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:27] "GET /stream_output?os=Linux&scripts=4.useraccaudit.sh HTTP/1.1" 200 -
+2025-06-14 14:53:42,096 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:42] "GET / HTTP/1.1" 200 -
+2025-06-14 14:53:42,251 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:42] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 14:53:42,258 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:42] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 14:53:42,351 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:42] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 14:53:42,405 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:42] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 14:53:45,426 - INFO - 127.0.0.1 - - [14/Jun/2025 14:53:45] "GET /stream_output?os=Linux&scripts=1.password.sh HTTP/1.1" 200 -
+2025-06-14 15:05:01,278 - INFO - 127.0.0.1 - - [14/Jun/2025 15:05:01] "GET /stream_output?os=Linux&scripts=5.firewall.sh HTTP/1.1" 200 -
+2025-06-14 15:05:19,677 - INFO - 127.0.0.1 - - [14/Jun/2025 15:05:19] "GET /stream_output?os=Linux&scripts=3.acclockoutandlogin.sh HTTP/1.1" 200 -
+2025-06-14 15:06:25,148 - INFO - 127.0.0.1 - - [14/Jun/2025 15:06:25] "GET /stream_output?os=Linux&scripts=2.accadminprevilages.sh HTTP/1.1" 200 -
+2025-06-14 15:21:10,644 - INFO - 127.0.0.1 - - [14/Jun/2025 15:21:10] "GET /stream_output?os=Linux&scripts=1.password.sh HTTP/1.1" 200 -
+2025-06-14 15:22:08,808 - INFO - 127.0.0.1 - - [14/Jun/2025 15:22:08] "GET /stream_output?os=Linux&scripts=3.acclockoutandlogin.sh HTTP/1.1" 200 -
+2025-06-14 15:23:19,538 - INFO - 127.0.0.1 - - [14/Jun/2025 15:23:19] "GET /stream_output?os=Linux&scripts=1.password.sh&scripts=3.acclockoutandlogin.sh HTTP/1.1" 200 -
+2025-06-14 15:26:28,758 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:28] "GET / HTTP/1.1" 200 -
+2025-06-14 15:26:28,852 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:28] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 15:26:28,856 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:28] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 15:26:28,912 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:28] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 15:26:28,965 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:28] "GET /get_scripts?os=Linux HTTP/1.1" 200 -
+2025-06-14 15:26:32,419 - INFO - 127.0.0.1 - - [14/Jun/2025 15:26:32] "GET /stream_output?os=Linux&scripts=10.sysaudit.sh HTTP/1.1" 200 -
+2025-06-14 11:00:16,130 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 11:00:16,131 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 11:00:16,135 - INFO -  * Restarting with stat
+2025-06-14 11:00:17,974 - WARNING -  * Debugger is active!
+2025-06-14 11:00:17,980 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 11:00:21,151 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:21] "GET / HTTP/1.1" 200 -
+2025-06-14 11:00:22,831 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:22] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 11:00:22,852 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 11:00:23,543 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:23] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 11:00:23,713 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 11:00:23,736 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:23] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 11:00:28,735 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:28] "GET / HTTP/1.1" 200 -
+2025-06-14 11:00:28,829 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:28] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 11:00:28,844 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:28] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 11:00:28,896 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:28] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 11:00:28,921 - INFO - 127.0.0.1 - - [14/Jun/2025 11:00:28] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 11:01:06,684 - INFO - 127.0.0.1 - - [14/Jun/2025 11:01:06] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 04:33:48,629 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 04:33:48,630 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 04:33:48,632 - INFO -  * Restarting with stat
+2025-06-14 04:33:49,189 - WARNING -  * Debugger is active!
+2025-06-14 04:33:49,197 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 04:33:51,247 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:51] "GET / HTTP/1.1" 200 -
+2025-06-14 04:33:51,646 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:33:51,694 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:33:52,148 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 04:33:52,198 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:52] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:33:52,331 - INFO - 127.0.0.1 - - [14/Jun/2025 04:33:52] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:34:45,415 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:45] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 04:34:51,678 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:51] "GET / HTTP/1.1" 200 -
+2025-06-14 04:34:51,759 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:34:51,762 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:34:52,122 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:52] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:34:52,257 - INFO - 127.0.0.1 - - [14/Jun/2025 04:34:52] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:38:31,824 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:31] "GET / HTTP/1.1" 200 -
+2025-06-14 04:38:31,902 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:31] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:38:31,972 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:31] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:38:32,341 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:32] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:38:32,466 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:32] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:38:38,568 - INFO - 127.0.0.1 - - [14/Jun/2025 04:38:38] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 04:42:58,502 - INFO - 127.0.0.1 - - [14/Jun/2025 04:42:58] "GET / HTTP/1.1" 200 -
+2025-06-14 04:42:58,572 - INFO - 127.0.0.1 - - [14/Jun/2025 04:42:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:42:58,586 - INFO - 127.0.0.1 - - [14/Jun/2025 04:42:58] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:42:58,892 - INFO - 127.0.0.1 - - [14/Jun/2025 04:42:58] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:42:58,968 - INFO - 127.0.0.1 - - [14/Jun/2025 04:42:58] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:43:12,176 - INFO - 127.0.0.1 - - [14/Jun/2025 04:43:12] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 04:45:57,281 - INFO - 127.0.0.1 - - [14/Jun/2025 04:45:57] "GET / HTTP/1.1" 200 -
+2025-06-14 04:45:57,346 - INFO - 127.0.0.1 - - [14/Jun/2025 04:45:57] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:45:57,360 - INFO - 127.0.0.1 - - [14/Jun/2025 04:45:57] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:45:57,734 - INFO - 127.0.0.1 - - [14/Jun/2025 04:45:57] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:45:57,800 - INFO - 127.0.0.1 - - [14/Jun/2025 04:45:57] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:48:59,771 - INFO - 127.0.0.1 - - [14/Jun/2025 04:48:59] "GET / HTTP/1.1" 200 -
+2025-06-14 04:48:59,845 - INFO - 127.0.0.1 - - [14/Jun/2025 04:48:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:48:59,846 - INFO - 127.0.0.1 - - [14/Jun/2025 04:48:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:49:00,247 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:00] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:49:00,321 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:00] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:49:52,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 04:49:52,475 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 04:49:52,477 - INFO -  * Restarting with stat
+2025-06-14 04:49:53,169 - WARNING -  * Debugger is active!
+2025-06-14 04:49:53,175 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 04:49:58,741 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:58] "GET / HTTP/1.1" 200 -
+2025-06-14 04:49:58,939 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:49:58,966 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:58] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:49:59,524 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:59] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:49:59,548 - INFO - 127.0.0.1 - - [14/Jun/2025 04:49:59] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:51:01,561 - INFO - 127.0.0.1 - - [14/Jun/2025 04:51:01] "GET / HTTP/1.1" 200 -
+2025-06-14 04:51:01,621 - INFO - 127.0.0.1 - - [14/Jun/2025 04:51:01] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:51:01,631 - INFO - 127.0.0.1 - - [14/Jun/2025 04:51:01] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:51:01,980 - INFO - 127.0.0.1 - - [14/Jun/2025 04:51:01] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:51:02,026 - INFO - 127.0.0.1 - - [14/Jun/2025 04:51:02] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:55:10,807 - INFO - 127.0.0.1 - - [14/Jun/2025 04:55:10] "GET / HTTP/1.1" 200 -
+2025-06-14 04:55:10,879 - INFO - 127.0.0.1 - - [14/Jun/2025 04:55:10] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:55:10,888 - INFO - 127.0.0.1 - - [14/Jun/2025 04:55:10] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:55:11,234 - INFO - 127.0.0.1 - - [14/Jun/2025 04:55:11] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:55:11,268 - INFO - 127.0.0.1 - - [14/Jun/2025 04:55:11] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 04:58:53,186 - INFO - 127.0.0.1 - - [14/Jun/2025 04:58:53] "GET / HTTP/1.1" 200 -
+2025-06-14 04:58:53,315 - INFO - 127.0.0.1 - - [14/Jun/2025 04:58:53] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 04:58:53,450 - INFO - 127.0.0.1 - - [14/Jun/2025 04:58:53] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 04:58:53,674 - INFO - 127.0.0.1 - - [14/Jun/2025 04:58:53] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 04:58:53,812 - INFO - 127.0.0.1 - - [14/Jun/2025 04:58:53] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:09:02,614 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 05:09:02,614 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 05:09:02,617 - INFO -  * Restarting with stat
+2025-06-14 05:09:03,203 - WARNING -  * Debugger is active!
+2025-06-14 05:09:03,209 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 05:09:05,424 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:05] "GET / HTTP/1.1" 200 -
+2025-06-14 05:09:05,924 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:05] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:09:05,953 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:05] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:09:06,338 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:06] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:09:06,444 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 05:09:06,558 - INFO - 127.0.0.1 - - [14/Jun/2025 05:09:06] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:11:51,217 - INFO - 127.0.0.1 - - [14/Jun/2025 05:11:51] "GET / HTTP/1.1" 200 -
+2025-06-14 05:11:51,294 - INFO - 127.0.0.1 - - [14/Jun/2025 05:11:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:11:51,305 - INFO - 127.0.0.1 - - [14/Jun/2025 05:11:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:11:51,712 - INFO - 127.0.0.1 - - [14/Jun/2025 05:11:51] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:11:51,747 - INFO - 127.0.0.1 - - [14/Jun/2025 05:11:51] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:12:59,290 - INFO - 127.0.0.1 - - [14/Jun/2025 05:12:59] "GET / HTTP/1.1" 200 -
+2025-06-14 05:12:59,355 - INFO - 127.0.0.1 - - [14/Jun/2025 05:12:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:12:59,370 - INFO - 127.0.0.1 - - [14/Jun/2025 05:12:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:12:59,820 - INFO - 127.0.0.1 - - [14/Jun/2025 05:12:59] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:12:59,931 - INFO - 127.0.0.1 - - [14/Jun/2025 05:12:59] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:13:51,973 - INFO - 127.0.0.1 - - [14/Jun/2025 05:13:51] "GET / HTTP/1.1" 200 -
+2025-06-14 05:13:52,035 - INFO - 127.0.0.1 - - [14/Jun/2025 05:13:52] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:13:52,043 - INFO - 127.0.0.1 - - [14/Jun/2025 05:13:52] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:13:52,352 - INFO - 127.0.0.1 - - [14/Jun/2025 05:13:52] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:13:52,388 - INFO - 127.0.0.1 - - [14/Jun/2025 05:13:52] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:14:38,726 - INFO - 127.0.0.1 - - [14/Jun/2025 05:14:38] "GET / HTTP/1.1" 200 -
+2025-06-14 05:14:38,793 - INFO - 127.0.0.1 - - [14/Jun/2025 05:14:38] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:14:38,801 - INFO - 127.0.0.1 - - [14/Jun/2025 05:14:38] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:14:39,161 - INFO - 127.0.0.1 - - [14/Jun/2025 05:14:39] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:14:39,236 - INFO - 127.0.0.1 - - [14/Jun/2025 05:14:39] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:17:26,959 - INFO - 127.0.0.1 - - [14/Jun/2025 05:17:26] "GET / HTTP/1.1" 200 -
+2025-06-14 05:17:27,021 - INFO - 127.0.0.1 - - [14/Jun/2025 05:17:27] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:17:27,032 - INFO - 127.0.0.1 - - [14/Jun/2025 05:17:27] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:17:27,385 - INFO - 127.0.0.1 - - [14/Jun/2025 05:17:27] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:17:27,417 - INFO - 127.0.0.1 - - [14/Jun/2025 05:17:27] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:20:51,396 - INFO - 127.0.0.1 - - [14/Jun/2025 05:20:51] "GET / HTTP/1.1" 200 -
+2025-06-14 05:20:51,453 - INFO - 127.0.0.1 - - [14/Jun/2025 05:20:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:20:51,460 - INFO - 127.0.0.1 - - [14/Jun/2025 05:20:51] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:20:51,827 - INFO - 127.0.0.1 - - [14/Jun/2025 05:20:51] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:20:51,869 - INFO - 127.0.0.1 - - [14/Jun/2025 05:20:51] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:21:03,209 - INFO - 127.0.0.1 - - [14/Jun/2025 05:21:03] "GET /stream_output?os=Windows&scripts=10.wifi.ps1&scripts=11.syserr.ps1 HTTP/1.1" 200 -
+2025-06-14 05:21:11,844 - INFO - 127.0.0.1 - - [14/Jun/2025 05:21:11] "GET /download_report?path=d:\\mpf\\reports\\audit_report_b108d156-1758-444d-919a-957e41084079.pdf HTTP/1.1" 200 -
+2025-06-14 05:23:06,639 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:06] "GET / HTTP/1.1" 200 -
+2025-06-14 05:23:06,855 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:06] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:23:06,900 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:06] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:23:07,306 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:07] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:23:07,351 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:07] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:23:09,531 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:09] "GET / HTTP/1.1" 200 -
+2025-06-14 05:23:09,616 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:09] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:23:09,640 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:09] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:23:10,002 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:10] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:23:10,044 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:10] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:23:30,160 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "GET / HTTP/1.1" 200 -
+2025-06-14 05:23:30,319 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:23:30,334 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:23:30,748 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:23:30,848 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:23:30,887 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 05:23:41,930 - INFO - 127.0.0.1 - - [14/Jun/2025 05:23:41] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-06-14 05:24:21,095 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:21] "GET / HTTP/1.1" 200 -
+2025-06-14 05:24:21,157 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:21] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:24:21,167 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:21] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:24:21,526 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:21] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:24:21,593 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:21] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:24:27,554 - INFO - 127.0.0.1 - - [14/Jun/2025 05:24:27] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-06-14 05:25:15,241 - INFO - 127.0.0.1 - - [14/Jun/2025 05:25:15] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-06-14 05:29:50,925 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 05:29:50,925 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 05:29:50,927 - INFO -  * Restarting with stat
+2025-06-14 05:29:51,542 - WARNING -  * Debugger is active!
+2025-06-14 05:29:51,547 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 05:29:53,772 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:53] "GET / HTTP/1.1" 200 -
+2025-06-14 05:29:54,162 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:54] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:29:54,168 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:54] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:29:54,701 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:54] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:29:54,776 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 05:29:54,851 - INFO - 127.0.0.1 - - [14/Jun/2025 05:29:54] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:30:16,531 - INFO - 127.0.0.1 - - [14/Jun/2025 05:30:16] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 05:33:09,652 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:09] "GET / HTTP/1.1" 200 -
+2025-06-14 05:33:09,721 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:09] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:33:09,728 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:09] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:33:10,061 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:10] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:33:10,121 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:10] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:33:17,795 - INFO - 127.0.0.1 - - [14/Jun/2025 05:33:17] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 05:37:43,578 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:43] "GET / HTTP/1.1" 200 -
+2025-06-14 05:37:43,650 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:43] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 05:37:43,670 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:43] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 05:37:44,024 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:44] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 05:37:44,111 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:44] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 05:37:51,380 - INFO - 127.0.0.1 - - [14/Jun/2025 05:37:51] "GET /stream_output?os=Windows&scripts=12.services.ps1 HTTP/1.1" 200 -
+2025-06-14 05:38:04,447 - INFO - 127.0.0.1 - - [14/Jun/2025 05:38:04] "GET /stream_output?os=Windows&scripts=12.services.ps1&scripts=5.firewall.ps1&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-14 18:46:59,327 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 18:46:59,328 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 18:46:59,330 - INFO -  * Restarting with stat
+2025-06-14 18:47:00,046 - WARNING -  * Debugger is active!
+2025-06-14 18:47:00,051 - INFO -  * Debugger PIN: 129-434-876
+2025-06-14 18:47:03,230 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:03] "GET / HTTP/1.1" 200 -
+2025-06-14 18:47:04,643 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 18:47:04,724 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:04] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 18:47:06,488 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:06] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 18:47:06,532 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:06] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-14 18:47:07,759 - INFO - 127.0.0.1 - - [14/Jun/2025 18:47:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 18:49:45,126 - INFO - 127.0.0.1 - - [14/Jun/2025 18:49:45] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-14 18:50:35,382 - INFO - 127.0.0.1 - - [14/Jun/2025 18:50:35] "GET / HTTP/1.1" 200 -
+2025-06-14 18:50:35,454 - INFO - 127.0.0.1 - - [14/Jun/2025 18:50:35] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-14 18:50:35,462 - INFO - 127.0.0.1 - - [14/Jun/2025 18:50:35] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-14 18:50:35,810 - INFO - 127.0.0.1 - - [14/Jun/2025 18:50:35] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-14 18:50:35,884 - INFO - 127.0.0.1 - - [14/Jun/2025 18:50:35] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-15 02:10:13,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-15 02:10:13,700 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-15 02:10:13,708 - INFO -  * Restarting with stat
+2025-06-15 02:10:14,511 - WARNING -  * Debugger is active!
+2025-06-15 02:10:14,518 - INFO -  * Debugger PIN: 129-434-876
+2025-06-15 02:10:41,448 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:41] "GET / HTTP/1.1" 200 -
+2025-06-15 02:10:41,756 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:41] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-15 02:10:41,886 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:41] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-15 02:10:43,243 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:43] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-15 02:10:43,338 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-15 02:10:43,649 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:43] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-15 02:10:51,049 - INFO - 127.0.0.1 - - [15/Jun/2025 02:10:51] "GET /stream_output?os=Windows&scripts=13.tasks.ps1 HTTP/1.1" 200 -
+2025-06-17 16:16:04,312 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 16:16:04,313 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 16:16:04,316 - INFO -  * Restarting with stat
+2025-06-17 16:16:05,015 - WARNING -  * Debugger is active!
+2025-06-17 16:16:05,023 - INFO -  * Debugger PIN: 129-434-876
+2025-06-17 16:16:07,619 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:07] "GET / HTTP/1.1" 200 -
+2025-06-17 16:16:08,050 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:08] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-17 16:16:08,100 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:08] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-17 16:16:09,012 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 16:16:09,207 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:09] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-17 16:16:09,258 - INFO - 127.0.0.1 - - [17/Jun/2025 16:16:09] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-17 18:11:14,209 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 18:11:14,210 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 18:11:14,212 - INFO -  * Restarting with stat
+2025-06-17 18:11:14,919 - WARNING -  * Debugger is active!
+2025-06-17 18:11:14,928 - INFO -  * Debugger PIN: 129-434-876
+2025-06-17 18:11:18,834 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:18] "GET / HTTP/1.1" 200 -
+2025-06-17 18:11:20,883 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:20] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-17 18:11:20,950 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:20] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-17 18:11:21,798 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 18:11:22,630 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:22] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-17 18:11:22,716 - INFO - 127.0.0.1 - - [17/Jun/2025 18:11:22] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-17 18:34:51,168 - INFO - 127.0.0.1 - - [17/Jun/2025 18:34:51] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-17 19:26:16,099 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 19:26:16,100 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 19:26:16,102 - INFO -  * Restarting with stat
+2025-06-17 19:26:16,699 - WARNING -  * Debugger is active!
+2025-06-17 19:26:16,708 - INFO -  * Debugger PIN: 129-434-876
+2025-06-17 19:26:19,348 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:19] "GET / HTTP/1.1" 200 -
+2025-06-17 19:26:19,678 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:19] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-17 19:26:19,739 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:19] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-17 19:26:19,987 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 19:26:20,011 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:20] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-17 19:26:20,114 - INFO - 127.0.0.1 - - [17/Jun/2025 19:26:20] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-17 19:31:26,929 - INFO - 127.0.0.1 - - [17/Jun/2025 19:31:26] "GET /stream_output?os=Windows&scripts=8.usb.ps1 HTTP/1.1" 200 -
+2025-06-17 22:05:56,842 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-17 22:05:56,843 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-17 22:05:56,846 - INFO -  * Restarting with stat
+2025-06-17 22:05:57,477 - WARNING -  * Debugger is active!
+2025-06-17 22:05:57,484 - INFO -  * Debugger PIN: 129-434-876
+2025-06-17 22:06:08,500 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:08] "GET / HTTP/1.1" 200 -
+2025-06-17 22:06:08,739 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:08] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-17 22:06:08,743 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:08] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-17 22:06:09,519 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-17 22:06:09,820 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:09] "GET /detect_os?host=localhost HTTP/1.1" 200 -
+2025-06-17 22:06:09,841 - INFO - 127.0.0.1 - - [17/Jun/2025 22:06:09] "GET /get_scripts?os=Windows HTTP/1.1" 200 -
+2025-06-17 22:07:30,884 - INFO - 127.0.0.1 - - [17/Jun/2025 22:07:30] "GET /stream_output?os=Windows&scripts=10.wifi.ps1 HTTP/1.1" 200 -
+2025-06-17 22:09:48,579 - INFO - 127.0.0.1 - - [17/Jun/2025 22:09:48] "GET /download_report?path=d:\\mpf\\reports\\audit_report_741e3005-5743-4ec6-ad1d-dc42d9501bb6.pdf HTTP/1.1" 200 -
+2025-06-17 22:10:43,694 - INFO - 127.0.0.1 - - [17/Jun/2025 22:10:43] "GET /stream_output?os=Windows&scripts=10.wifi.ps1&scripts=16.malware.ps1 HTTP/1.1" 200 -
+2025-06-17 22:11:30,008 - INFO - 127.0.0.1 - - [17/Jun/2025 22:11:30] "GET /stream_output?os=Windows&scripts=17.drivers.ps1 HTTP/1.1" 200 -
+2025-06-17 22:16:26,540 - INFO - 127.0.0.1 - - [17/Jun/2025 22:16:26] "GET /stream_output?os=Windows&scripts=17.drivers.ps1&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-17 22:16:38,426 - INFO - 127.0.0.1 - - [17/Jun/2025 22:16:38] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-17 22:16:48,987 - INFO - 127.0.0.1 - - [17/Jun/2025 22:16:48] "GET /stream_output?os=Windows&scripts=6.appfw.ps1 HTTP/1.1" 200 -
+2025-06-17 22:17:04,715 - INFO - 127.0.0.1 - - [17/Jun/2025 22:17:04] "GET /stream_output?os=Windows&scripts=5.firewall.ps1 HTTP/1.1" 200 -

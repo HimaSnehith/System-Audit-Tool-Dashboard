@@ -1,0 +1,146 @@
+{
+  "Windows": {
+    "2.admin.ps1": {
+      "description": "Audits administrative account privileges (local Administrators group).",
+      "filename": "2.admin.ps1",
+      "title": "Account Admin Privilege Audit"
+    },
+    "3.lockout.ps1": {
+      "description": "Checks Windows Account Lockout and Login Policy settings.",
+      "filename": "3.lockout.ps1",
+      "title": "Account Lockout and Login Policy Audit"
+    },
+    "4.users.ps1": {
+      "description": "Lists local user accounts and their status (enabled, last logon).",
+      "filename": "4.users.ps1",
+      "title": "User Accounting Audit"
+    },
+    "5.firewall.ps1": {
+      "description": "Verifies basic Windows Firewall profile status (Domain, Private, Public).",
+      "filename": "5.firewall.ps1",
+      "title": "Windows Firewall Audit"
+    },
+    "6.appfw.ps1": {
+      "description": "Audits application-specific Windows Firewall rules.",
+      "filename": "6.appfw.ps1",
+      "title": "App Firewall Audit"
+    },
+    "7.downloads.ps1": {
+      "description": "Lists files in the current user's Downloads folder.",
+      "filename": "7.downloads.ps1",
+      "title": "Downloaded Files Audit"
+    },
+    "8.usb.ps1": {
+      "description": "Audits connected USB storage devices.",
+      "filename": "8.usb.ps1",
+      "title": "USB Device Audit"
+    },
+    "9.bluetooth.ps1": {
+      "description": "Checks for active Bluetooth devices.",
+      "filename": "9.bluetooth.ps1",
+      "title": "Bluetooth Audit"
+    },
+    "10.wifi.ps1": {
+      "description": "Lists configured Wi-Fi profiles.",
+      "filename": "10.wifi.ps1",
+      "title": "Wi-Fi Profile Audit"
+    },
+    "11.syserr.ps1": {
+      "description": "Audits recent System Event Log Error entries (System log).",
+      "filename": "11.syserr.ps1",
+      "title": "System Event Errors Audit"
+    },
+    "12.services.ps1": {
+      "description": "Audits Windows services set to Automatic but not running.",
+      "filename": "12.services.ps1",
+      "title": "Windows Services Audit"
+    },
+    "13.tasks.ps1": {
+      "description": "Audits non-Microsoft scheduled tasks.",
+      "filename": "13.tasks.ps1",
+      "title": "Scheduled Tasks Audit"
+    },
+    "14.susproc.ps1": {
+      "description": "Audits processes running from Temp or AppData directories.",
+      "filename": "14.susproc.ps1",
+      "title": "Suspicious Process Location Audit"
+    },
+    "16.malware.ps1": {
+      "description": "Checks for threats detected by Windows Defender.",
+      "filename": "16.malware.ps1",
+      "title": "Malware Scan Audit"
+    },
+    "17.drivers.ps1": {
+      "description": "Audits drivers with reported problems.",
+      "filename": "17.drivers.ps1",
+      "title": "Driver Check Audit"
+    },
+    "18.password.ps1": {
+      "description": "Detailed audit of Password Policy and individual user account password settings.",
+      "filename": "18.password.ps1",
+      "title": "Password Policy Audit"
+    }
+  },
+  "Linux": {
+    "1.password.sh": {
+      "description": "Audit password policies and user account security.",
+      "filename": "1.password.sh",
+      "title": "Password Policy Audit"
+    },
+    "2.accadminprevilages.sh": {
+      "description": "Audit admin privileges of user accounts.",
+      "filename": "2.accadminprevilages.sh",
+      "title": "Admin Privileges Audit"
+    },
+    "3.acclockoutandlogin.sh": {
+      "description": "Audit account lockout and login policies.",
+      "filename": "3.acclockoutandlogin.sh",
+      "title": "Account Lockout and Login Audit"
+    },
+    "4.useraccaudit.sh": {
+      "description": "Detailed audit of user accounts.",
+      "filename": "4.useraccaudit.sh",
+      "title": "User Account Audit"
+    },
+    "5.firewall.sh": {
+      "description": "Check firewall status and rules (UFW/Iptables).",
+      "filename": "5.firewall.sh",
+      "title": "Firewall Audit"
+    },
+    "6.appfirewall.sh": {
+      "description": "Audit application-level firewall configurations.",
+      "filename": "6.appfirewall.sh",
+      "title": "App Firewall Audit"
+    },
+    "7.usbcheck.sh": {
+      "description": "Detect and control USB device access.",
+      "filename": "7.usbcheck.sh",
+      "title": "USB Device Audit"
+    },
+    "8.wifi.sh": {
+      "description": "Audit Wi-Fi settings and connections.",
+      "filename": "8.wifi.sh",
+      "title": "Wi-Fi Audit"
+    },
+    "9.bluetooth.sh": {
+      "description": "Audit Bluetooth devices and configuration.",
+      "filename": "9.bluetooth.sh",
+      "title": "Bluetooth Audit"
+    },
+    "10.sysaudit.sh": {
+      "description": "Audit running services and system anomalies.",
+      "filename": "10.sysaudit.sh",
+      "title": "System Services Audit"
+    },
+    "11.syslog.sh": {
+      "description": "Analyze system logs for suspicious login or sudo activity.",
+      "filename": "11.syslog.sh",
+      "title": "System Log Audit"
+    },
+    "12.driver.sh": {
+      "description": "Check kernel modules and driver security.",
+      "filename": "12.driver.sh",
+      "title": "Driver Security Audit"
+    }
+  }
+}
