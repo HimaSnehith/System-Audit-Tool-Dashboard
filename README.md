@@ -128,10 +128,4 @@ MIT License
 
 ---
 
-## 🙏 Credits
-
-* CIS Benchmarks
-* FontAwesome (icons)
-* wkhtmltopdf
-
 > Designed & Developed with 💛 by Sai Hima Snehith Matwada
